@@ -5,6 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
+    Advertisement images:
+      Ad image: 
   uploads:
     title: Uploads
     output: true
