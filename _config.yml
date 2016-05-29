@@ -15,6 +15,8 @@ description: |
   Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 baseurl: "/-nc-test"
 url: http://justinpatenaude.github.io
-twitter_username: jekyllrb
-github_username: jekyll
+Advertising:
+- "/uploads/landscape_01_350x200.jpg"
+- "/uploads/landscape_01_350x200.jpg"
+- "/uploads/landscape_01_350x200.jpg"
 markdown: kramdown
