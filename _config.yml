@@ -6,7 +6,7 @@ collections:
     title: Posts
     output: true
     Advertisement images:
-      Ad image: 
+      Ad image: "/uploads/landscape_01_350x200.jpg"
   uploads:
     title: Uploads
     output: true
